@@ -311,7 +311,6 @@ ARCH_HTML = f"""
 HEADER_HTML = """
 <div class="header-band">
   <h1>LLM Benchmarking Dashboard</h1>
-  <p>RV College of Engineering &nbsp;·&nbsp; Department of AI &amp; ML &nbsp;·&nbsp; Course AI364TA</p>
 </div>
 """
 
